@@ -1,0 +1,27 @@
+{
+  "name": "@coderbyheart/xkcd-password",
+  "version": "1.0.0",
+  "description": "Use npx @coderbyheart/xkcd-password to generate a four word password. See https://xkcd.com/936/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderbyheart/xkcd-password.git"
+  },
+  "keywords": [
+    "npx",
+    "xkcd",
+    "password"
+  ],
+  "author": "Markus Tacker <m@coderbyheart.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coderbyheart/xkcd-password/issues"
+  },
+  "homepage": "https://github.com/coderbyheart/xkcd-password#readme",
+  "dependencies": {
+    "xkcd-password": "^2.0.0"
+  }
+}

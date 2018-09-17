@@ -25,6 +25,6 @@
     "xkcd-password": "^2.0.0"
   },
   "devDependencies": {
-    "jest": "^20.0.4"
+    "jest": "^23.6.0"
   }
 }

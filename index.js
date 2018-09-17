@@ -1,4 +1,4 @@
-#!/bin/env node
+#!/usr/bin/env node
 
 var xkcdPassword = require('xkcd-password')
 var pw = new xkcdPassword()
